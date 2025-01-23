@@ -28,4 +28,3 @@ class Solution:
             median = (merged[k//2]+merged[(k//2) -1])/2
         
         return median
-        
